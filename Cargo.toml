@@ -1,0 +1,6 @@
+[package]
+name = "fibonacci"
+version = "0.1.0"
+authors = ["Chris Smith <42@chrisryansmith.com>"]
+
+[dependencies]
